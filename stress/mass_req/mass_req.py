@@ -31,8 +31,14 @@ class MassReq():
                 'Content-Type': 'text/html'
             }
             res = s.post(url, data=html_string, headers=headers, timeout=(30,30))
-            print('status code:', res.status_code, '/', time.strftime('%Y.%m.%d - %H:%M:%S'))
-            return res.json()
+            q = None
+            try:
+                json_data = res.json()
+                q = json_data['search_parameters']['q']
+            except:
+                pass
+            print('status code:', res.status_code, '/', time.strftime('%Y.%m.%d - %H:%M:%S'), '/', q)
+            return 
 
     def get_urls(self):
         file_name = '{}{}{}'.format(

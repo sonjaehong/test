@@ -5,7 +5,7 @@ services:
     build: 
       dockerfile: Dockerfile
     ports:
-      - "7070:8080"
+      - "7071:8081"
     restart: "no"
 # networks:
 #   default:
