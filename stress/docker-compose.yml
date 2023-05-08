@@ -1,0 +1,13 @@
+version: "3"
+services:
+  mass_req:
+    image: mass_req:test
+    build: 
+      dockerfile: Dockerfile
+    ports:
+      - "7070:8080"
+    restart: "no"
+# networks:
+#   default:
+#     name: test-mongttang
+#     external: true

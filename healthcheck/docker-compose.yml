@@ -1,0 +1,14 @@
+version: "3"
+services:
+  health_check:
+    image: health_check:test
+    build: 
+      dockerfile: Dockerfile
+      context: .
+    ports:
+      - "7080:8090"
+    restart: "no"
+# networks:
+#   default:
+#     name: test-mongttang
+#     external: true
