@@ -1,0 +1,668 @@
+{
+    "information": {
+        "version": "5.0.5.master",
+        "displayed_query": "블랙핑크",
+        "parsed_time": "2023-05-16T04:20:54.345Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 106517
+                    },
+                    "_func": "header",
+                    "title": "BLACKPINK",
+                    "subtitle": "Girl group"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 27980
+                    },
+                    "_func": "sticky_header_tabs",
+                    "tabs": [
+                        {
+                            "text": "Overview",
+                            "selected": true
+                        },
+                        {
+                            "text": "Members",
+                            "selected": false
+                        },
+                        {
+                            "text": "Songs",
+                            "selected": false
+                        },
+                        {
+                            "text": "Events",
+                            "selected": false
+                        },
+                        {
+                            "text": "Albums",
+                            "selected": false
+                        },
+                        {
+                            "text": "Videos",
+                            "selected": false
+                        },
+                        {
+                            "text": "Awards",
+                            "selected": false
+                        },
+                        {
+                            "text": "Merchandise",
+                            "selected": false
+                        },
+                        {
+                            "text": "Listen",
+                            "selected": false
+                        },
+                        {
+                            "text": "Fashion",
+                            "selected": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 14054
+                    },
+                    "_func": "thumbnails",
+                    "carousels": [
+                        {
+                            "type": "image",
+                            "attrid": "image",
+                            "image": {
+                                "alt": "Credit: Getty Images for Coachella/Natt Lim"
+                            },
+                            "landing_url": "http://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQdMIvx1uqDO2tiXGjDsPzzvIyg8QuJ52lebth6UP_IZsUzPV6NverWy8rLdUZC0h8C"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "BLACKPINK - 나무위키"
+                            },
+                            "landing_url": "https://namu.wiki/w/BLACKPINK"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "Blackpink - Wikipedia"
+                            },
+                            "landing_url": "https://en.wikipedia.org/wiki/Blackpink"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "Blackpink - Wikipedia"
+                            },
+                            "landing_url": "https://en.wikipedia.org/wiki/Blackpink"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "(ENGsub) 블랙핑크 스페셜 ★'마지막처럼 '부터 'How You Like That'까지★ (BLACKPINK SPECIAL 23분  무대 모음)"
+                            },
+                            "landing_url": "https://www.youtube.com/watch?v=ez51zZrq744"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "BLINK(BLACKPINK) - 나무위키"
+                            },
+                            "landing_url": "https://namu.wiki/w/BLINK(BLACKPINK)"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "Blackpink - Wikipedia"
+                            },
+                            "landing_url": "https://en.wikipedia.org/wiki/Blackpink"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "BLACKPINKOFFICIAL (@BLACKPINK) / Twitter"
+                            },
+                            "landing_url": "https://twitter.com/BLACKPINK"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "《Comeback Special》 BLACKPINK (블랙핑크) - STAY @인기가요 Inkigayo 20161106"
+                            },
+                            "landing_url": "https://www.youtube.com/watch?v=RVsrMS6gM08"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "로제(BLACKPINK) - 나무위키"
+                            },
+                            "landing_url": "https://namu.wiki/w/%EB%A1%9C%EC%A0%9C(BLACKPINK)"
+                        },
+                        {
+                            "type": "image",
+                            "attrid": "secondary image",
+                            "image": {
+                                "alt": "B L A C K P I N K ALL SONGS PLAYLIST 2022 UPDATED | 블랙핑크 노래 모음"
+                            },
+                            "landing_url": "https://www.youtube.com/watch?v=cASqLWnFpcg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 4,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 7806
+                    },
+                    "_func": "listen",
+                    "attrid": "action:listen_artist",
+                    "title": "Listen",
+                    "carousels": [
+                        {
+                            "name": "YouTube",
+                            "url": "https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A?feature=gws_kp_artist&feature=gws_kp_artist"
+                        },
+                        {
+                            "name": "Spotify",
+                            "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF?autoplay=true&source_application=google_assistant"
+                        },
+                        {
+                            "name": "Apple Music",
+                            "url": "https://music.apple.com/us/artist/blackpink/1141774019"
+                        },
+                        {
+                            "name": "iHeart",
+                            "url": "https://www.iheart.com/artist/blackpink-31335301/?autoplay=true"
+                        },
+                        {
+                            "name": "Deezer",
+                            "url": "https://www.deezer.com/artist/10803980/radio?autoplay=true"
+                        },
+                        {
+                            "name": "YouTube Music",
+                            "url": "https://music.youtube.com/channel/UCkbbMCA40i18i7UdjayMPAg?feature=gws_kp_artist&feature=gws_kp_artist"
+                        },
+                        {
+                            "name": "Pandora",
+                            "url": "http://www.pandora.com/?sc=miR704801"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 4174
+                    },
+                    "_func": "description",
+                    "attrid": "description",
+                    "description": "Blackpink is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa.",
+                    "source": "Wikipedia",
+                    "url": "https://en.m.wikipedia.org/wiki/Blackpink"
+                },
+                {
+                    "ved": {
+                        "type": 2507
+                    },
+                    "_func": "properties",
+                    "properties": [
+                        {
+                            "attrid": "kc:/music/artist:record label",
+                            "key": "Record labels",
+                            "value": "YG Entertainment,Interscope Records,YGEX"
+                        },
+                        {
+                            "attrid": "kc:/music/artist:active from",
+                            "key": "Active from",
+                            "value": "2016"
+                        },
+                        {
+                            "attrid": "kc:/music/artist:upcoming events",
+                            "key": "Events",
+                            "value": "Bangkok, Thailand,Bangkok, Thailand,Osaka, Japan,Osaka, Japan,Saint-Denis, France"
+                        },
+                        {
+                            "attrid": "kc:/award/award_winner:awards",
+                            "key": "Awards",
+                            "value": "Seoul Music Awards Bonsang Awards,Golden Disc Award Song Division,More"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 1,
+            "date": "3 days ago",
+            "title": "BLACKPINK - 나무위키",
+            "url": "https://namu.wiki/w/BLACKPINK",
+            "snippet": "3 days ago — BLACKPINK라는 그룹명은 가장 예쁜 색으로 표현되는 \"핑크 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://namu.wiki/w/BLACKPINK",
+                "desc": "블랙핑크 from namu.wiki"
+            },
+            "refinements": [
+                {
+                    "text": "지수"
+                },
+                {
+                    "text": "로제"
+                },
+                {
+                    "text": "제니"
+                },
+                {
+                    "text": "리사"
+                },
+                {
+                    "text": "Blackpink/음반"
+                },
+                {
+                    "text": "Blackpink/논란 및 사건 사고"
+                },
+                {
+                    "text": "Blackpink/공연 및 행사"
+                }
+            ],
+            "properties": [
+                {
+                    "key": "2018년 1월 6일 ~ 2018년 8월 18일",
+                    "value": "블핑하우스"
+                },
+                {
+                    "key": "2022년 12월 2일 ~ 2023년",
+                    "value": "B.P.M"
+                }
+            ]
+        },
+        {
+            "sequence": 7,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 28473
+                    },
+                    "_func": "media_carousel",
+                    "attrid": "kc:/music/musical_group:members",
+                    "title": "Members",
+                    "carousels": [
+                        {
+                            "image": {
+                                "alt": "Jennie Kim",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "Jennie Kim"
+                        },
+                        {
+                            "image": {
+                                "alt": "Lisa",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "Lisa"
+                        },
+                        {
+                            "image": {
+                                "alt": "Jisoo",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "Jisoo"
+                        },
+                        {
+                            "image": {
+                                "alt": "Rosé",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "Rosé"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "position": 2,
+            "title": "BLACKPINK - YouTube",
+            "url": "https://m.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A",
+            "snippet": "BLACKPINK Official YouTube Channel블랙핑크 공식 유튜브 채널입니다.JISOO, JENNIE, ROSÉ, LISA지수, 제니, 로제, 리사."
+        },
+        {
+            "sequence": 9,
+            "type": "video_results",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "“표 샀는데 자리 없다” 블랙핑크 공연 간 변호사 3억 소송 [잇슈 SNS] / KBS ...",
+                    "url": "https://www.youtube.com/watch?v=ARlfqkeleRU",
+                    "date": "3 hours ago"
+                },
+                {
+                    "title": "BLACKPINK - 'Pink Venom' M/V",
+                    "url": "https://m.youtube.com/watch?v=gQlMMD8auMs",
+                    "date": "Aug 19, 2022"
+                },
+                {
+                    "title": "BLACKPINK(블랙핑크) - Pink Venom @인기가요 inkigayo 20220828",
+                    "url": "https://m.youtube.com/watch?v=jjFSRDUvETQ",
+                    "date": "Aug 28, 2022"
+                }
+            ]
+        },
+        {
+            "sequence": 10,
+            "type": "articles",
+            "items": [
+                {
+                    "title": "Top stories",
+                    "carousels": [
+                        {
+                            "title": "“자리 없어 서서 봤다”…블랙핑크 공연사에 3억 소송건 변호사",
+                            "url": "https://www.donga.com/news/amp/all/20230515/119303187/2"
+                        },
+                        {
+                            "title": "'칸 입성' 블랙핑크 제니, 또 한 명의 연기돌 탄생(종합)[Oh!쎈 초점] - 조선비즈",
+                            "url": "https://biz.chosun.com/entertainment/enter_general/2023/05/15/RVOVK4KDJ4ERXVVOAQDKNITJAE/?outputType=amp"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 11,
+            "type": "people_also_search_for",
+            "segments": [
+                {
+                    "carousels": [
+                        {
+                            "title": "BTS"
+                        },
+                        {
+                            "title": "(G)I‑DLE",
+                            "subtitle": "Trending"
+                        },
+                        {
+                            "title": "TWICE"
+                        },
+                        {
+                            "title": "ITZY"
+                        },
+                        {
+                            "title": "Stray Kids"
+                        },
+                        {
+                            "title": "NewJeans"
+                        },
+                        {
+                            "title": "aespa"
+                        },
+                        {
+                            "title": "Taylor Swift"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 12,
+            "type": "short_videos",
+            "carousels": [
+                {
+                    "url": "https://www.tiktok.com/@bp_tiktok/video/7220637173928791297",
+                    "title": "🌹 and 🌷 #JISOO_FLOWER #지수꽃 #FLOWERchallenge #ME #JISOO #지수 #BLACKPIN...",
+                    "source": "TikTok",
+                    "channel": "bp_tiktok"
+                },
+                {
+                    "url": "#fpstate=ive&vld=cid:ce4ceb7c,vid:klbdGv5Bz3U",
+                    "title": "붉게 타버려진 #지수 와 #영지 🌹 #JISOO_FLOWER #지수꽃 #ME #JISOO #BLACKPINK #블랙핑크 #FLOWERchallenge",
+                    "source": "YouTube",
+                    "channel": "BLACKPINK"
+                },
+                {
+                    "url": "https://www.tiktok.com/@bp_tiktok/video/7229543332786048263",
+                    "title": "#BLACKPINK 만 남아🖤💖 #JISOO_FLOWER #지수꽃 #FLOWERchallenge #ME #JISOO #지수...",
+                    "source": "TikTok",
+                    "channel": "bp_tiktok"
+                },
+                {
+                    "url": "https://www.tiktok.com/@alexhkf/video/7223685542523817222",
+                    "title": "Its Jenchella time 💖 #coachella #coachella2023 #blackpink #블랙핑크",
+                    "source": "TikTok",
+                    "channel": "alexhkf"
+                }
+            ]
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 3,
+            "title": "BLACKPINK - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.m.wikipedia.org/wiki/BLACKPINK",
+            "snippet": "BLACKPINK(블랙핑크)는 2016년 8월 8일에 데뷔한 대한민국의 YG 엔터테인먼트 소속 4인조 다국적 걸 그룹이다. YG 엔터테 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://ko.m.wikipedia.org/wiki/BLACKPINK",
+                "desc": "블랙핑크 from ko.m.wikipedia.org"
+            },
+            "refinements": [
+                {
+                    "text": "2018: Re:Blackpink, SQUARE..."
+                },
+                {
+                    "text": "2019: KILL THIS LOVE"
+                },
+                {
+                    "text": "2020: How You Like That, Ice..."
+                }
+            ]
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "position": 4,
+            "title": "BLΛƆKPIИK (@blackpinkofficial) • Instagram photos and videos",
+            "url": "https://www.instagram.com/blackpinkofficial/",
+            "snippet": "JISOO '꽃(FLOWER)' M/V OUT NOW. youtu.be/YudHcBIxlYw. 1,776 posts; 55.3M followers; 4 following. #JISOO #지수 #BLACKPINK #블랙핑크 #꽃 #FLOWER #MV #."
+        },
+        {
+            "sequence": 15,
+            "type": "twitter",
+            "channel_name": "BLACKPINKOFFICIAL",
+            "carousels": [
+                {
+                    "url": "https://twitter.com/BLACKPINK/status/1656112894877241345?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "desc": "#JISOO '꽃(FLOWER)' M/V HITS 200 MILLION VIEWS @Youtube\n    BLINKs worldwide, thank you so much!\n    \n    '꽃(FLOWER)' M/V\n    🎥youtu.be/YudHcBIxlYw \n    \n    #지수 #BLACKPINK #블랙핑크 #꽃 #FLOWER #MV #200MILLION #YOUTUBE #YG "
+                },
+                {
+                    "url": "https://twitter.com/BLACKPINK/status/1654335816079138819?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                    "desc": "#BLACKPINK 만 남아🖤💖\n    \n    Shorts ▶️ youtube.com/shorts/h…\n    Reels ▶️ www.instagram.com/re…\n    TikTok ▶️ vt.tiktok.com/ZS8Kkg…\n    \n    #JISOO_FLOWER #지수꽃 #ME #JISOO #지수 #JENNIE #제니 #ROSÉ #로제 #LISA #리사 #블랙핑크 #FLOWERchallenge"
+                }
+            ]
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "position": 5,
+            "title": "BLACKPINK #블랙핑크 #ShutDown #MV #400MILLION #YOUTUBE #YG",
+            "url": "https://www.instagram.com/p/CqwK2VkhO5H/",
+            "snippet": "893K likes, 647 comments - BLΛƆKPIИK (@blackpinkofficial) on Instagram: \"#BLACKPINK #블랙핑크 #ShutDown #MV #400MILLION #YOUTUBE #YG\""
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "position": 6,
+            "title": "BLACKPINK 블랙핑크",
+            "url": "https://www.cokodive.com/collections/blackpink-%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC",
+            "snippet": "Shop our collection of authentic BLACKPINK Albums & Goods.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.cokodive.com/collections/blackpink-%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC",
+                "desc": "블랙핑크 from www.cokodive.com"
+            }
+        },
+        {
+            "sequence": 18,
+            "type": "people_also_ask_for",
+            "results": [
+                {
+                    "question": "블랙핑크 데뷔 몇년차?"
+                },
+                {
+                    "question": "블랙핑크 몇세대?"
+                }
+            ]
+        },
+        {
+            "sequence": 19,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 5934
+                    },
+                    "_func": "list",
+                    "attrid": "kc:/music/artist:songs",
+                    "title": "Songs",
+                    "items": [
+                        {
+                            "attrid": "list",
+                            "name": "Pink Venom"
+                        },
+                        {
+                            "attrid": "list",
+                            "name": "How You Like That"
+                        },
+                        {
+                            "attrid": "list",
+                            "name": "Shut Down"
+                        },
+                        {
+                            "attrid": "list",
+                            "name": "DDU-DU DDU-DU"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 20,
+            "type": "knowledge_panel",
+            "cards": [
+                {
+                    "ved": {
+                        "type": 28473
+                    },
+                    "_func": "media_carousel",
+                    "attrid": "kc:/music/artist:albums",
+                    "title": "Albums",
+                    "carousels": [
+                        {
+                            "image": {
+                                "alt": "Born Pink",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "Born Pink"
+                        },
+                        {
+                            "image": {
+                                "alt": "The Album",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "The Album"
+                        },
+                        {
+                            "image": {
+                                "alt": "Blackpink 2021 'The Show' Live",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "Blackpink 2021 'The Show' Live"
+                        },
+                        {
+                            "image": {
+                                "alt": "Blackpink 2019-2020 World Tour In Your Area-Tokyo Dome-",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "Blackpink 2019-2020 World Tour In Your Area-Tokyo Dome-"
+                        },
+                        {
+                            "image": {
+                                "alt": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL (Live)",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL (Live)"
+                        },
+                        {
+                            "image": {
+                                "alt": "BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\"",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "BLACKPINK ARENA TOUR 2018 \"SPECIAL FINAL IN KYOCERA DOME OSAKA\""
+                        },
+                        {
+                            "image": {
+                                "alt": "Blackpink",
+                                "height": "112",
+                                "width": "112"
+                            },
+                            "name": "Blackpink"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "position": 7,
+            "title": "Translation of 블랙핑크 from Korean into English - Dictionary",
+            "url": "https://www.lingq.com/en/learn-korean-online/translate/ko/%EB%B8%94%EB%9E%99%ED%95%91%ED%81%AC/",
+            "snippet": "English translation of 블랙핑크 - Translations, examples and discussions from LingQ. ... 소미 : 저 맨날 새벽마다 (블랙핑크)지수 언니 만나잖아요, 동물의 ..."
+        }
+    ]
+}

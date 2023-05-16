@@ -1,0 +1,323 @@
+{
+    "information": {
+        "version": "5.0.5.master",
+        "displayed_query": "냉장고",
+        "parsed_time": "2023-05-16T04:20:53.593Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "ad",
+            "position": 1,
+            "ad_tag": "스폰서",
+            "title": "삼성닷컴 냉장고 스페셜 할인 - 삼성닷컴 SALE - 비스포크 냉장고 할인",
+            "url": "https://www.samsung.com/sec/refrigerators/all-refrigerators/",
+            "snippet": "내가 찾던 냉장고 역대급 특가. 삼성닷컴에만 있는 최대 빅세일 기회 놓치지 마세요.",
+            "sitelinks": [
+                {
+                    "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwifuP3g-_j-AhU8wUwCHf5ZD0cYABALGgJ0bQ&ae=2&sig=AOD64_14DAkKzuITBt4RWozwtjMpDcVjIA&q=&ved=706&adurl=",
+                    "title": "아울렛 세일"
+                },
+                {
+                    "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwifuP3g-_j-AhU8wUwCHf5ZD0cYABAMGgJ0bQ&ae=2&sig=AOD64_3N9kjcOizG-aE0FQ2H2nzWuBnsTg&q=&ved=706&adurl=",
+                    "title": "닷컴 특가"
+                },
+                {
+                    "url": "https://www.google.com/aclk?sa=l&ai=DChcSEwifuP3g-_j-AhU8wUwCHf5ZD0cYABANGgJ0bQ&ae=2&sig=AOD64_0yHa3Qsx3OMsVT3mA2F1cizT_Q1Q&q=&ved=706&adurl=",
+                    "title": "베스트셀러"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "position": 2,
+            "title": "양문형 냉장고 : 다나와 가격비교",
+            "url": "http://m.danawa.com/product/productList.html?cateCode=10244606",
+            "snippet": "냉장고 / 2도어(양문형) / 총용량: 832L / [스펙] 프리스탠딩 / 냉장: 524L / 냉동: 308L / 소비전력: 52.3kWh(월) / 2등급 / [디자인] 색상: (상단) 네이쳐클레이핑크 ...",
+            "refinements": [
+                {
+                    "text": "소형(~400L)"
+                },
+                {
+                    "text": "키친핏/세미빌트인"
+                },
+                {
+                    "text": "4도어"
+                }
+            ]
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "position": 3,
+            "title": "냉장고 : 다나와 가격비교",
+            "url": "http://m.danawa.com/product/productList.html?cateCode=10342890",
+            "snippet": "가전/TV>주방가전>업소용 주방가전>냉장고 가격비교 리스트 입니다. 다나와의 가격비교 서비스로 한눈에 비교하고 저렴하게 구매하세요."
+        },
+        {
+            "sequence": 4,
+            "type": "people_also_search_for",
+            "searches": [
+                {
+                    "query": "냉장고 가격"
+                },
+                {
+                    "query": "소형냉장고"
+                },
+                {
+                    "query": "Lg 냉장고"
+                },
+                {
+                    "query": "냉장고 추천"
+                },
+                {
+                    "query": "냉장고 영어"
+                },
+                {
+                    "query": "냉장고싼곳"
+                }
+            ]
+        },
+        {
+            "sequence": 5,
+            "type": "images",
+            "images": [
+                {
+                    "landing_url": "https://namu.wiki/w/%EB%83%89%EC%9E%A5%EA%B3%A0"
+                },
+                {
+                    "landing_url": "https://www.lge.co.kr/refrigerators/b600s51"
+                },
+                {
+                    "landing_url": "https://www.samsung.com/sec/refrigerators/search-refrigerators/"
+                },
+                {
+                    "landing_url": "https://www.lge.co.kr/refrigerators/b600s51"
+                }
+            ]
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "position": 4,
+            "title": "냉장고 | 코스트코 코리아",
+            "url": "https://www.costco.co.kr/Appliances/Refrigerators/c/cos_14.1",
+            "snippet": "엘지 오브제 노크온 냉장고 870L - 메탈 그레이블랙 배송 및 설치비 포함. 1,889,000원. 할인금액 110,000원. 배송비 포함. 행사기간 2023/ ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.costco.co.kr/Appliances/Refrigerators/c/cos_14.1",
+                "desc": "냉장고(출처: www.costco.co.kr)"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "position": 5,
+            "date": "7일 전",
+            "title": "냉장고 - 나무위키",
+            "url": "https://namu.wiki/w/%EB%83%89%EC%9E%A5%EA%B3%A0",
+            "snippet": "7일 전 — 냉장고(冷藏庫)는 식품이나 약품 등을 부패하지 않도록 저 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://namu.wiki/w/%EB%83%89%EC%9E%A5%EA%B3%A0",
+                "desc": "냉장고(출처: namu.wiki)"
+            },
+            "refinements": [
+                {
+                    "text": "냉장고/종류"
+                },
+                {
+                    "text": "삼성 bespoke 냉장고"
+                },
+                {
+                    "text": "코끼리를 냉장고에 넣는 방법"
+                },
+                {
+                    "text": "양심냉장고"
+                }
+            ],
+            "properties": [
+                {
+                    "key": "영어",
+                    "value": "Refrigerator, Fridge, Fridge-freezer"
+                },
+                {
+                    "key": "한국어",
+                    "value": "냉장고(冷藏庫); 랭동기(冷凍機)"
+                }
+            ]
+        },
+        {
+            "sequence": 8,
+            "type": "articles",
+            "items": [
+                {
+                    "title": "주요 뉴스",
+                    "carousels": [
+                        {
+                            "title": "전기료 인상에…CU, 완전 밀폐형 냉장고 시범 도입",
+                            "url": "https://m.newspim.com/newsamp/view/20230516000116"
+                        },
+                        {
+                            "title": "전기요금 부담 커진 여름…CU, 냉장고에 문 달았다 - 서울경제",
+                            "url": "https://m.sedaily.com/NewsViewAmp/29PLO82ZK9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sequence": 9,
+            "type": "images",
+            "images": [
+                {
+                    "landing_url": "https://www.costco.co.kr/Appliances/Refrigerators/Refrigerators/Whirlpool-Refrigerator-591L/p/631767"
+                },
+                {
+                    "landing_url": "https://www.donga.com/news/Economy/article/all/20200101/99047717/1"
+                },
+                {
+                    "landing_url": "https://www.dacorkorea.com/products/refrigerators/t-type-refrigerator"
+                },
+                {
+                    "landing_url": "https://www.youtube.com/watch?v=0zNZytzhI_E"
+                }
+            ]
+        },
+        {
+            "sequence": 10,
+            "type": "people_also_ask_for",
+            "results": [
+                {
+                    "question": "냉장고 어떤게 좋은가요?"
+                },
+                {
+                    "question": "냉장고 어떻게 사용해요?"
+                }
+            ]
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "position": 6,
+            "title": "냉장고 - 롯데하이마트 온라인쇼핑몰",
+            "url": "https://www.e-himart.co.kr/app/display/showDisplayCategory?dispNo=1011020000",
+            "snippet": "일반냉장고 RT25NARAHS8 (255L). 삼성전자 일반냉장고 RT25NARAHS8 (255L) · 일반냉장고 B602S52 (592L) · 패밀리 냉동고 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.e-himart.co.kr/app/display/showDisplayCategory?dispNo=1011020000",
+                "desc": "냉장고(출처: www.e-himart.co.kr)"
+            }
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "position": 7,
+            "title": "냉장고 검색결과 - G마켓",
+            "url": "http://browse.gmarket.co.kr/m/search?keyword=%EB%83%89%EC%9E%A5%EA%B3%A0",
+            "snippet": "직영몰에서만 가능한 LG, 삼성 인기냉장고 최대 92% 할인! 3. GS냉동산업. https://blog.naver.com/kjj6315. 5% 할인.농,축, ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "position": 8,
+            "title": "냉장고 | Samsung 대한민국",
+            "url": "https://www.samsung.com/sec/refrigerators/all-refrigerators/",
+            "snippet": "삼성 냉장고에 대한 모든 궁금증을 해결하세요. 디자인과 기능, 사용 방법 등을 한눈에 비교하고 확인할 수 있어 제품 선택이 한결 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.samsung.com/sec/refrigerators/all-refrigerators/",
+                "desc": "냉장고(출처: www.samsung.com)"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "ads",
+            "position": 2,
+            "title": "스폰서        ",
+            "carousels": [
+                {
+                    "title": "BESPOKE 냉장고 4도어 프리스탠딩 875 L_글램화이트+새틴베이지",
+                    "url": "/aclk?sa=l&ai=DChcSEwifuP3g-_j-AhU8wUwCHf5ZD0cYABAJGgJ0bQ&ae=2&sig=AOD64_1Umd0B-FNZdTr1THd69BMUDqYLzg&ctype=5&q=&ved=1907&adurl=",
+                    "price": "₩1,600,000",
+                    "delivery": "무료 배송",
+                    "provider": "삼성닷컴",
+                    "data-offer-docid": "1050940952251721231",
+                    "data-merchant-id": "143377461",
+                    "data-offer-id": "RF85B90023Y"
+                },
+                {
+                    "title": "LG전자 디오스 오브제컬렉션 양문형 냉장고 메탈 832L 방문설치 클레이민트(상단) 베이지(하단) S834MTE10",
+                    "url": "/aclk?sa=l&ai=DChcSEwifuP3g-_j-AhU8wUwCHf5ZD0cYABAGGgJ0bQ&ae=2&sig=AOD64_3IF1JjZ0KGTDMm1WFPMuLJCipa0Q&ctype=5&q=&ved=1907&adurl=",
+                    "price": "₩1,271,170",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "7765466488062507329",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I14747658241"
+                },
+                {
+                    "title": "삼성전자 일반형냉장고 엘리건트 이녹스 RT25NARAHS8",
+                    "url": "/aclk?sa=l&ai=DChcSEwifuP3g-_j-AhU8wUwCHf5ZD0cYABAHGgJ0bQ&ae=2&sig=AOD64_31mRE8w7R3bN4J94iaH7iY92I2jg&ctype=5&q=&ved=1907&adurl=",
+                    "price": "₩361,600",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "5673136555800516787",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I11648123008"
+                },
+                {
+                    "title": "삼성전자 양문형냉장고 엘리건트 이녹스 RS82M6000S8",
+                    "url": "/aclk?sa=l&ai=DChcSEwifuP3g-_j-AhU8wUwCHf5ZD0cYABAKGgJ0bQ&ae=2&sig=AOD64_1FNt4s7YWZlCJIMIKRrb7hXOiilg&ctype=5&q=&ved=1907&adurl=",
+                    "price": "₩990,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "10016592041708263527",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I11645714937"
+                },
+                {
+                    "title": "삼성전자 일반형냉장고 엘리건트 블랙 RB30R4051B1",
+                    "url": "/aclk?sa=l&ai=DChcSEwifuP3g-_j-AhU8wUwCHf5ZD0cYABAIGgJ0bQ&ae=2&sig=AOD64_3uRwMPyBlwMlWLWzAnplj7RRZnMw&ctype=5&q=&ved=1907&adurl=",
+                    "price": "₩495,000",
+                    "delivery": "무료 배송",
+                    "provider": "Coupang",
+                    "data-offer-docid": "14906036539077144898",
+                    "data-merchant-id": "139321488",
+                    "data-offer-id": "10304991I1012353195"
+                }
+            ]
+        },
+        {
+            "sequence": 15,
+            "type": "related_searches",
+            "results": [
+                {
+                    "query": "코스트코냉장고"
+                },
+                {
+                    "query": "삼성냉장고"
+                },
+                {
+                    "query": "양문형냉장고"
+                },
+                {
+                    "query": "엘지냉장고가격"
+                },
+                {
+                    "query": "삼성냉장고가격"
+                },
+                {
+                    "query": "일반냉장고"
+                },
+                {
+                    "query": "다나와 냉장고"
+                },
+                {
+                    "query": "냉장고 역사"
+                }
+            ]
+        }
+    ]
+}
